@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:precise
 
 MAINTAINER karcaw@gmail.com
 
